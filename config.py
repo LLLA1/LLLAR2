@@ -37,7 +37,7 @@ LARIN_NAME = getenv("LARIN_NAME", "اضغط هناء")
 LARIN_LINK = getenv("LARIN_LINK", "https://t.me/YMMYC")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/LLLA1/LLLAR1",
+    "https://github.com/LLLA1/LLLAR2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
