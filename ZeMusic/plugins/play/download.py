@@ -70,7 +70,7 @@ async def song_downloader(client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text=config.LARIN_NAME, url=config.LARIN_LINK),
+                        text=config.CHANNEL_NAME, url=config.CHANNEL_LINK),
                 ],
 
             ]
