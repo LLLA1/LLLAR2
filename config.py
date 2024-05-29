@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH","986cb4ba434870a62fe96da3b5f6d411")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-Muntazer = getenv("muntazer", "https://t.me/eo_u7")
+Muntazer = getenv("muntazer", "eo_u7")
 
 MUST_JOIN = getenv("MUST_JOIN", "https://t.me/eo_u7")
 
